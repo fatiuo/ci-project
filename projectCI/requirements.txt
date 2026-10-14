@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+networkx       # For TSP/Graph problems
+openai         # Or langchain, for the LLM Orchestrator
+tqdm           # For progress bars
